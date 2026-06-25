@@ -39,8 +39,7 @@ app.use(cors({
     'http://localhost:3000',
     'http://127.0.0.1:3000',
     'http://localhost:5500',
-    'https://temanberbagi1.vercel.app',
-    'https://temanberbagi1-git-main-achmadfachri1s-projects.vercel.app',
+    'https://https://vercel.com/achmadfachri1s-projects/temanberbagi1', // ganti sesuai domain asli
   ],
   credentials: true,
 }));
